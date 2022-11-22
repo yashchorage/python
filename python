@@ -1,5 +1,0 @@
-# python
-remove"banana"
-thislist = ["banana", "apple", "chery"]
-thislist.remove("banana")
-print(thislist)
